@@ -9,9 +9,9 @@ This enhancement instantaneously targets your opponents, streamlining the act of
 The latest evolution in Valorant aim assistance leverages hyper-advanced external memory parsing. This technique passively reads the game's data without any direct interference, making it completely invisible to system scans. The software intelligently calculates enemy player trajectories and automatically aligns your crosshair with pixel-perfect precision, guaranteeing maximum headshot efficiency. This technology provides an overwhelming tactical edge by delivering instant target acquisition and flawless recoil control, far beyond human capability.
 
 Ultra-customizable settings allow you to tailor your experience perfectly:
-*   **Precision Tuning:** Adjust aim strength, smoothness, and reaction time to mimic human hand movement exactly.
-*   **Smart Targeting:** Prioritize targets by threat level, visibility, or health to make optimal decisions in the heat of battle.
-*   **Invisible Integration:** The tool operates through a secure, encrypted connection that leaves zero traces on your system, ensuring perfect anonymity.
+1. **Precision Tuning:** Adjust aim strength, smoothness, and reaction time to mimic human hand movement exactly.
+2. **Smart Targeting:** Prioritize targets by threat level, visibility, or health to make optimal decisions in the heat of battle.
+3. **Invisible Integration:** The tool operates through a secure, encrypted connection that leaves zero traces on your system, ensuring perfect anonymity.
 
 ### Guaranteed Anonymity and Total Security
 
